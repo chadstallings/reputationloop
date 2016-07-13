@@ -1,0 +1,12 @@
+Hello!
+
+This is my coding project, I didn't use a MVC do to the instructions, now on a much larger project, a MVC would be appropiate. this is a simple one page application
+that has a class in the application.
+I wrote everything from scratch, all functions are in the class, and all css is on the page.
+I custom wrote my pagnation, and css.
+
+Thank you for asking this, as you are my first proposal I have done on Upwork, I would really appreciate feedback!
+I started on this on 7-12-16 10:30am and ended roughly 3:30 pm.
+
+Thank you again,
+Chad Stallings
